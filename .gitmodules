@@ -1,0 +1,3 @@
+[submodule "hw2/kafka-kraft-cluster-docker-compose"]
+	path = hw2/kafka-kraft-cluster-docker-compose
+	url = https://github.com/minhhungit/kafka-kraft-cluster-docker-compose
